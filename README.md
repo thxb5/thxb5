@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="mailto:kjhcyz@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-#EA4335?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
 
 <!--
 **thxb5/thxb5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
